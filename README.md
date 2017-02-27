@@ -1,5 +1,5 @@
 # DocParse
-PHP method comment parse
+PHP method comment parse test
 
 ## USAGE
 
